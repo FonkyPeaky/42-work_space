@@ -1,1 +1,1 @@
-find . \( -name '*~' -o -name '\#*\#' \) -type f -print -delete
+ echo -e "42" | tr -d "\n" > "\"\\?\$*'KwaMe'*\$?\\\""
